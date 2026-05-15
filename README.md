@@ -61,15 +61,6 @@ I’m on a journey to become a world-class developer by focusing on:
 - Land my first developer role (Already Done! in Nov 2025)
 - Become technically strong in databases
 - Start my developer advocacy journey (On it)
-
----
-
-## 📈 GitHub Stats
-
-![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
 ---
 
 ## 📫 Connect with me
